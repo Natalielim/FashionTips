@@ -18,6 +18,7 @@
 		319E8A251D2D6DA4001C7D96 /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 319E8A241D2D6DA4001C7D96 /* TodayViewController.swift */; };
 		319E8A281D2D6DA4001C7D96 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 319E8A261D2D6DA4001C7D96 /* MainInterface.storyboard */; };
 		319E8A2C1D2D6DA4001C7D96 /* DailyFashionTips.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 319E8A1F1D2D6DA4001C7D96 /* DailyFashionTips.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		319E8A321D2D86AF001C7D96 /* TipsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 319E8A311D2D86AF001C7D96 /* TipsModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,7 @@
 		319E8A241D2D6DA4001C7D96 /* TodayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewController.swift; sourceTree = "<group>"; };
 		319E8A271D2D6DA4001C7D96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
 		319E8A291D2D6DA4001C7D96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		319E8A311D2D86AF001C7D96 /* TipsModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +181,7 @@
 			isa = PBXGroup;
 			children = (
 				319E8A241D2D6DA4001C7D96 /* TodayViewController.swift */,
+				319E8A311D2D86AF001C7D96 /* TipsModel.swift */,
 				319E8A261D2D6DA4001C7D96 /* MainInterface.storyboard */,
 				319E8A291D2D6DA4001C7D96 /* Info.plist */,
 			);
@@ -373,6 +376,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				319E8A251D2D6DA4001C7D96 /* TodayViewController.swift in Sources */,
+				319E8A321D2D86AF001C7D96 /* TipsModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -620,6 +624,7 @@
 				319E8A141D2D6D50001C7D96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		319E8A151D2D6D50001C7D96 /* Build configuration list for PBXNativeTarget "FashionTipsTests" */ = {
 			isa = XCConfigurationList;
@@ -628,6 +633,7 @@
 				319E8A171D2D6D50001C7D96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		319E8A181D2D6D50001C7D96 /* Build configuration list for PBXNativeTarget "FashionTipsUITests" */ = {
 			isa = XCConfigurationList;
@@ -636,6 +642,7 @@
 				319E8A1A1D2D6D50001C7D96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		319E8A2D1D2D6DA4001C7D96 /* Build configuration list for PBXNativeTarget "DailyFashionTips" */ = {
 			isa = XCConfigurationList;
@@ -644,6 +651,7 @@
 				319E8A2F1D2D6DA4001C7D96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
