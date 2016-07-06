@@ -29,7 +29,7 @@
                                 <constraints>
                                     <constraint firstAttribute="width" constant="150" id="bNP-e6-2kd"/>
                                 </constraints>
-                                <string key="text">‘Always organize your clothes going light to dark from left to right in your closet. Your eye will follow the color and thus help you stay organized.' - Melanie Charlton Fascitelli, Founder, Clos-ette and Clos-ette Too.</string>
+                                <string key="text">'Always organize your clothes going light to dark from left to right in your closet. Your eye will follow the color and thus help you stay organized.' - Melanie Charlton Fascitelli, Founder, Clos-ette and Clos-ette Too.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
