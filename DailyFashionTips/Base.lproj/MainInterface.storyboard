@@ -18,8 +18,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="100"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" misplaced="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0jl-Kb-SVz">
-                                <rect key="frame" x="12" y="8" width="258" height="130.5"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0jl-Kb-SVz">
+                                <rect key="frame" x="16" y="10" width="258" height="130.5"/>
                                 <string key="text">'Always organize your clothes going light to dark from left to right in your closet. Your eye will follow the color and thus help you stay organized.' - Melanie Charlton Fascitelli, Founder, Clos-ette and Clos-ette Too.</string>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>

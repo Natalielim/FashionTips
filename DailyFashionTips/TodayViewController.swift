@@ -36,4 +36,9 @@ class TodayViewController: UIViewController, NCWidgetProviding {
 
     @IBOutlet weak var tipLabel: UILabel!
     let tipModel = TipModel()
+    
+    func widgetMarginInsetsForProposedMarginInsets
+        (defaultMarginInsets: UIEdgeInsets) -> (UIEdgeInsets) {
+        return UIEdgeInsetsZero
     }
+}
