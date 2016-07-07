@@ -18,38 +18,38 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="3. Add 'FashionTips' to the displayed widgets." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zDu-Ya-uvF">
-                                <rect key="frame" x="30" y="259.5" width="540" height="19.5"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="16"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="3. Add 'FashionTips' to the displayed widgets and click 'Done'." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zDu-Ya-uvF">
+                                <rect key="frame" x="30" y="268" width="540" height="24"/>
+                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
                                 <color key="textColor" red="0.57254901960000004" green="0.6588235294" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="4. See a new fashion tip anytime from the notification center." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yf1-Qh-cC6">
-                                <rect key="frame" x="30" y="294" width="540" height="19.5"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="16"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="4. See a new fashion tip anytime from the Notification Center." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yf1-Qh-cC6">
+                                <rect key="frame" x="30" y="307" width="540" height="24"/>
+                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
                                 <color key="textColor" red="0.57254901960000004" green="0.6588235294" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1. Drag down from the top of your screen to reveal the Notification Center." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="moJ-rr-qXG">
-                                <rect key="frame" x="30" y="190.5" width="540" height="19.5"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="16"/>
+                                <rect key="frame" x="30" y="166" width="540" height="48"/>
+                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
                                 <color key="textColor" red="0.57254901960000004" green="0.6588235294" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2. Select 'Today'. Scroll down and tap 'Edit'" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wLp-9P-XKM">
-                                <rect key="frame" x="30" y="225" width="540" height="19.5"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="16"/>
+                                <rect key="frame" x="30" y="229" width="540" height="24"/>
+                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
                                 <color key="textColor" red="0.57254901960000004" green="0.6588235294" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome to FashionTips!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iqY-BO-eLF">
-                                <rect key="frame" x="186" y="135" width="228" height="25.5"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="21"/>
+                                <rect key="frame" x="130.5" y="100" width="339.5" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="30"/>
                                 <color key="textColor" red="0.96862745100000003" green="0.79215686269999996" blue="0.78823529410000004" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iTunesArtwork@1x" highlightedImage="iTunesArtwork" translatesAutoresizingMaskIntoConstraints="NO" id="i5k-R2-8hS">
-                                <rect key="frame" x="263" y="348.5" width="75" height="75"/>
+                                <rect key="frame" x="263" y="366" width="75" height="75"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="75" id="OXa-2G-ODe"/>
                                     <constraint firstAttribute="height" constant="75" id="vWL-eq-YQ1"/>
@@ -62,7 +62,7 @@
                             <constraint firstItem="wLp-9P-XKM" firstAttribute="top" secondItem="moJ-rr-qXG" secondAttribute="bottom" constant="15" id="35G-fT-3wW"/>
                             <constraint firstAttribute="trailingMargin" secondItem="zDu-Ya-uvF" secondAttribute="trailing" constant="10" id="4h2-Jc-4p9"/>
                             <constraint firstItem="moJ-rr-qXG" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="10" id="5vO-JJ-IbQ"/>
-                            <constraint firstItem="iqY-BO-eLF" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" constant="135" id="GxL-g7-d4O"/>
+                            <constraint firstItem="iqY-BO-eLF" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" constant="100" id="GxL-g7-d4O"/>
                             <constraint firstItem="wLp-9P-XKM" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="5" id="JhX-Xk-q6A"/>
                             <constraint firstAttribute="trailingMargin" secondItem="wLp-9P-XKM" secondAttribute="trailing" constant="5" id="O1e-9Y-i0H"/>
                             <constraint firstAttribute="trailingMargin" secondItem="moJ-rr-qXG" secondAttribute="trailing" constant="10" id="OxB-P1-l2v"/>
