@@ -37,9 +37,14 @@ class TodayViewController: UIViewController, NCWidgetProviding {
     @IBOutlet weak var tipLabel: UILabel!
     let tipModel = TipModel()
     
+    @IBOutlet weak var tipButton: UIButton!
+    
     func widgetMarginInsetsForProposedMarginInsets
         (defaultMarginInsets: UIEdgeInsets) -> (UIEdgeInsets) {
         return UIEdgeInsetsZero
     }
     
+    @IBAction func showTip(sender: UIButton) {
+        tipLabel.text = tipModel.getRandomTip()
+    }
 }
