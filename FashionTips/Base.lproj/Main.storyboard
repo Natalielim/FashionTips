@@ -87,16 +87,16 @@
                         </constraints>
                         <variation key="default">
                             <mask key="constraints">
+                                <exclude reference="Xk6-BB-UbV"/>
+                                <exclude reference="XrL-nv-beA"/>
+                                <exclude reference="p7i-7r-tbq"/>
+                                <exclude reference="rSS-7w-ETU"/>
                                 <exclude reference="ReB-3f-NDZ"/>
                                 <exclude reference="Szy-GD-RF4"/>
                                 <exclude reference="wRb-pn-nyQ"/>
                                 <exclude reference="JhX-Xk-q6A"/>
                                 <exclude reference="O1e-9Y-i0H"/>
                                 <exclude reference="pIh-cf-TOP"/>
-                                <exclude reference="Xk6-BB-UbV"/>
-                                <exclude reference="XrL-nv-beA"/>
-                                <exclude reference="p7i-7r-tbq"/>
-                                <exclude reference="rSS-7w-ETU"/>
                             </mask>
                         </variation>
                     </view>
